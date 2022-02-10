@@ -1,0 +1,76 @@
+{
+
+  "name": "webrtc_test_2",
+
+  "version": "1.0.0",
+
+  "description": "",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+    "devStart": "nodemon server.js"
+
+  },
+
+  "type": "commonjs",
+
+  "keywords": [],
+
+  "author": "",
+
+  "license": "ISC",
+
+  "dependencies": {
+
+    "@material-ui/core": "^4.12.3",
+
+    "axios": "^0.25.0",
+
+    "body-parser": "^1.19.1",
+
+    "browserify": "^17.0.0",
+
+    "cors": "^2.8.5",
+
+    "ejs": "^3.1.6",
+
+    "express": "^4.17.1",
+
+    "gulp-imagemin": "^7.1.0",
+
+    "http-proxy-middleware": "^2.0.1",
+
+    "mysql": "^2.18.1",
+
+    "node-fetch": "^3.1.0",
+
+    "puppeteer": "^13.0.1",
+
+    "qs": "^6.10.3",
+
+    "query-string": "^7.1.1",
+
+    "react-router-dom": "^6.2.1",
+
+    "request": "^2.88.2",
+
+    "socket.io": "^2.3.0",
+
+    "socket.io-client": "^2.3.0",
+
+    "uuid": "^8.3.2"
+
+  },
+
+  "devDependencies": {
+
+    "nodemon": "^2.0.15"
+
+  }
+
+}
+
